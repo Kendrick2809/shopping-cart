@@ -1,7 +1,7 @@
 // import useState
 import React, { useState } from 'react';
 import './styles.css';
-import AllTheThings from './components/AllTheThings';
+import AllTheThings from './components/AllTheThings/index';
 import MyShoppingCart from './components/MyShoppingCart';
 import Form from './components/Form';
 import productsArr from './products';
